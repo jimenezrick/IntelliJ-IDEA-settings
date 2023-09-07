@@ -28,7 +28,6 @@
   <component name="EditorSettings">
     <option name="SHOW_INTENTION_BULB" value="false" />
     <option name="IS_CARET_BLINKING" value="false" />
-    <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
   </component>
   <component name="InlayHintsSettings">
